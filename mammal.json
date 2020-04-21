@@ -1,0 +1,22 @@
+[
+	{"name":         "human", "gave_birth": "yes", "can_fly":  "no", "live_in_water":        "no", "have_legs": "yes", "class":     "mammals"},
+	{"name":        "python", "gave_birth":  "no", "can_fly":  "no", "live_in_water":        "no", "have_legs": "no",  "class": "non-mammals"},
+	{"name":        "salmon", "gave_birth":  "no", "can_fly":  "no", "live_in_water":       "yes", "have_legs": "no",  "class": "non-mammals"},
+	{"name":         "whale", "gave_birth": "yes", "can_fly":  "no", "live_in_water":       "yes", "have_legs": "no",  "class":     "mammals"},
+	{"name":          "frog", "gave_birth":  "no", "can_fly":  "no", "live_in_water": "sometimes", "have_legs": "no",  "class": "non-mammals"},
+	{"name":        "komodo", "gave_birth":  "no", "can_fly":  "no", "live_in_water":        "no", "have_legs": "yes", "class": "non-mammals"},
+	{"name":           "bat", "gave_birth": "yes", "can_fly": "yes", "live_in_water":        "no", "have_legs": "yes", "class":     "mammals"},
+	{"name":        "pigeon", "gave_birth":  "no", "can_fly": "yes", "live_in_water":        "no", "have_legs": "yes", "class": "non-mammals"},
+	{"name":           "cat", "gave_birth": "yes", "can_fly":  "no", "live_in_water":        "no", "have_legs": "yes", "class":     "mammals"},
+	{"name": "leopard_shark", "gave_birth": "yes", "can_fly":  "no", "live_in_water":       "yes", "have_legs": "no",  "class": "non-mammals"},
+	{"name":        "turtle", "gave_birth":  "no", "can_fly":  "no", "live_in_water": "sometimes", "have_legs": "yes", "class": "non-mammals"},
+	{"name":       "penguin", "gave_birth":  "no", "can_fly":  "no", "live_in_water": "sometimes", "have_legs": "yes", "class": "non-mammals"},
+	{"name":     "porcupine", "gave_birth": "yes", "can_fly":  "no", "live_in_water":        "no", "have_legs": "yes", "class":     "mammals"},
+	{"name":           "eel", "gave_birth":  "no", "can_fly":  "no", "live_in_water":       "yes", "have_legs": "no",  "class": "non-mammals"},
+	{"name":    "salamander", "gave_birth":  "no", "can_fly":  "no", "live_in_water": "sometimes", "have_legs": "yes", "class": "non-mammals"},
+	{"name":  "gila_monster", "gave_birth":  "no", "can_fly":  "no", "live_in_water":        "no", "have_legs": "yes", "class": "non-mammals"},
+	{"name":      "platypus", "gave_birth":  "no", "can_fly":  "no", "live_in_water":        "no", "have_legs": "yes", "class":     "mammals"},
+	{"name":           "owl", "gave_birth":  "no", "can_fly": "yes", "live_in_water":        "no", "have_legs": "yes", "class": "non-mammals"},
+	{"name":       "dolphin", "gave_birth": "yes", "can_fly":  "no", "live_in_water":       "yes", "have_legs": "no",  "class":     "mammals"},
+	{"name":         "eagle", "gave_birth":  "no", "can_fly": "yes", "live_in_water":        "no", "have_legs": "yes", "class": "non-mammals"}
+]
