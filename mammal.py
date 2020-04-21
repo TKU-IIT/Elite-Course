@@ -35,7 +35,7 @@ print(labels)
 print("After Encoding:")
 print(list(le.classes_))
 print()
-
+#Categorize the data and fitting them into labels
 for i in range(len(data)):
     data[i] = le.transform(data[i])
 correct_class = le.transform(correct_class)
