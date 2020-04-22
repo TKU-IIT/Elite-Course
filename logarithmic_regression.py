@@ -35,10 +35,10 @@ for (gre, toefl), admit in zip(X,Y):
 	else:
 		reject_gre.append([gre])
 		reject_toefl.append([toefl])
-
+#two lines
 plt.plot(admit_gre, admit_toefl, 'go', label='Admit', alpha=0.8)
 plt.plot(reject_gre, reject_toefl, 'ro', label='Reject', alpha=0.8)
-
+#plot Regression data into object
 clf = LogisticRegression().fit(X, Y)
 print('Coefficients: ', clf.coef_)
 print('Intercept: ', clf.intercept_)
