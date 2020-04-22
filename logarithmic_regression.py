@@ -16,7 +16,9 @@ raw_data = raw_data[1:]
 # print(raw_data)
 
 for row in raw_data:
+	#X[GRE,TOEFL]
 	X.append([int(row[1]), int(row[2])])
+	#Y->Chance to Admit
 	Y.append(int(row[-1]))
 # print(X)
 # print(Y)
